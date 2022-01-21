@@ -1,0 +1,13 @@
+body{
+    margin-left:35px;
+    background-color:bisque;
+    padding: 20px;
+}
+.titulo{
+    font-size: 60px;
+    color: rgb(19,208,223);
+    margin-left:50px;
+}
+img{
+    width: 800px;
+}
